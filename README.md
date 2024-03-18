@@ -1,4 +1,4 @@
-# Predicting Vehicle Weight and Road Slope
+# CS116: Predicting Vehicle Weight and Road Slope
 
 This project aimed to develop a personal predictive model for vehicle weight and road slope using Python and machine learning techniques. The dataset used contained 9 input signals and 8500 data samples.
 
